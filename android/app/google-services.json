@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502719708592",
+    "project_id": "cmsfirebase-7abfd",
+    "storage_bucket": "cmsfirebase-7abfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502719708592:android:a0fee5bdacff6fd3faea75",
+        "android_client_info": {
+          "package_name": "com.example.cmsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502719708592-jc7vrg5g9jidtjc7ccjpumgare8lnr54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConTtTlsQ15VODswi6s5XOonF8-HV1rWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502719708592-jc7vrg5g9jidtjc7ccjpumgare8lnr54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
